@@ -1,0 +1,4 @@
+.venv/
+temperature.db
+__pycache__/
+*.pyc
